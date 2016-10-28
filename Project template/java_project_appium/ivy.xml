@@ -1,0 +1,8 @@
+<ivy-module version="2.0">
+    <info organisation="org.apache" module="redwoodhq-ivy"/>
+    <dependencies>
+        <!--<dependency org="org.seleniumhq.selenium" name="selenium-java" rev="latest.release"/>-->
+        <dependency org="io.appium" name="java-client" rev="latest.release"/>
+        <dependency org="junit" name="junit" rev="latest.release"/>
+    </dependencies>
+</ivy-module>

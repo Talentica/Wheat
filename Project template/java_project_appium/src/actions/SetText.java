@@ -14,6 +14,7 @@ class SetText {
 		MobileElement element = Elements.find(params, Driver.driver);
 		try {
 			Driver.driver.hideKeyboard();
+			element.click();
 		} catch (Exception e) {
 			element.click();
 		}

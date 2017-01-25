@@ -36,6 +36,11 @@ Handle bugs in existing Appium actions | Open Sourced – Open for enhancements 
 3. [Xcode](https://itunes.apple.com/in/app/xcode/id497799835?mt=12) (to automate iOS apps)
 4. [Android Studio](https://developer.android.com/studio/index.html) (to automate Android apps)
 
-Slideshare link [Wheat - Mobile functional test automation](http://www.slideshare.net/sunnytambi/wheat-mobile-functional-test-automation)
-
-Blog link [Wheat – Mobile Functional Test Automation using RedwoodHQ & Appium](https://blog.talentica.com/2017/01/13/wheat-mobile-functional-test-automation-using-redwoodhq-appium/)
+# Check out more
+|     |   |
+|------------|---|
+| Youtube    | <a href="http://www.youtube.com/watch?feature=player_embedded&v=LwdFuOq8whg" target="_blank"><img src="http://img.youtube.com/vi/LwdFuOq8whg/0.jpg" alt="Wheat Demo" width="300" height="200" border="10" /></a>  |
+| Slideshare | [Wheat - Mobile functional test automation](http://www.slideshare.net/sunnytambi/wheat-mobile-functional-test-automation)  |
+| Blog       | [Wheat – Mobile Functional Test Automation using RedwoodHQ & Appium](https://blog.talentica.com/2017/01/13/wheat-mobile-functional-test-automation-using-redwoodhq-appium/)  |
+| Facebook   | [Introducing Wheat](https://www.facebook.com/talentica/posts/1489631757733417:0)  |
+| Twitter    | [Introducing Wheat](https://twitter.com/Talentica/status/821645420707323905)  |

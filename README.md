@@ -36,6 +36,8 @@ Handle bugs in existing Appium actions | Open Sourced – Open for enhancements 
 3. [Xcode](https://itunes.apple.com/in/app/xcode/id497799835?mt=12) (to automate iOS apps)
 4. [Android Studio](https://developer.android.com/studio/index.html) (to automate Android apps)
 
+Read the [Onboarding guide](https://github.com/Talentica/Wheat/blob/master/Resources/Wheat%20Onboarding.docx) to setup Wheat in your test environment.
+
 # Check out more
 |     |   |
 |------------|---|
